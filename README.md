@@ -8,8 +8,7 @@ To Desing , simulate and build simple 555 time cirucits that combine both of the
 
 
 # Simulation
-
-
+Add LT 
 
 
 # BreadBoard Cirucit 
@@ -20,4 +19,9 @@ To Desing , simulate and build simple 555 time cirucits that combine both of the
 # Summary
 
 
+# Refrences
+
+
+https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html
+https://www.electronics-tutorials.ws/waveforms/555_timer.html
 
