@@ -20,8 +20,6 @@ Add LT
 
 
 # Refrences
-
-
-https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html
-https://www.electronics-tutorials.ws/waveforms/555_timer.html
+1. https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html
+2. https://www.electronics-tutorials.ws/waveforms/555_timer.html
 
